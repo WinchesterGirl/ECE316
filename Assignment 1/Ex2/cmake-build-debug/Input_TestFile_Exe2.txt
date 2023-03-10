@@ -1,0 +1,15 @@
+Remove,100
+Add,100
+Add,200
+Print
+Size
+Add,400
+Add,300
+Print
+Remove,400
+Remove,100
+Print
+Size
+Remove,200
+Print
+Size
