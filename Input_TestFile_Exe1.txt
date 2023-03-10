@@ -1,4 +1,0 @@
-Add#3,4,100,223
-Subtract# 35,60,1
-Multiply#3,15
-Subtract#10000,500,29
