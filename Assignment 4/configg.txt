@@ -1,0 +1,10 @@
+echo "Ou gamwto"
+h=15
+g=10
+if (( h<=10 ) && ( g<=10 )); then 
+	echo "2 katw apo 10 "
+elif (( h<=10 ) && ( g>=10 )); then
+	echo "sthn else"
+else 
+echo "e ndaxi"
+fi
